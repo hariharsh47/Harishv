@@ -41,6 +41,7 @@ by rgba,(alpha ranges from 0.1 to 1.0)
 by hsl(hue,saturation,lightness -- > hue ranges from 0 to 360 degrees, saturation and lightness ranges fro 0 to 100%)
 by hsla
 
+ok then what should i do 
 
 
 
